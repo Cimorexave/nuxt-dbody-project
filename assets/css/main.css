@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: MTNIrancell-Light;
+  src: url("./assets/fonts/MTNIrancell-Light.ttf") format("truetype");
+}
+* {
+  font-family: MTNIrancell-Light;
+}
